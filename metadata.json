@@ -1,0 +1,6 @@
+{
+  "name": "NOVA TV",
+  "description": "Free-to-air live television streaming platform with adaptive HLS playback, external channel management, and offline-ready PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

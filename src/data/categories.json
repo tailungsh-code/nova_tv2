@@ -1,0 +1,79 @@
+[
+  {
+    "id": "cat-news",
+    "slug": "News",
+    "name": "News",
+    "description": "24-hour world bulletins, civic journalism, and live briefings.",
+    "sortOrder": 1
+  },
+  {
+    "id": "cat-sports",
+    "slug": "Sports",
+    "name": "Sports",
+    "description": "Live athletics, motorsport coverage, and match analysis.",
+    "sortOrder": 2
+  },
+  {
+    "id": "cat-entertainment",
+    "slug": "Entertainment",
+    "name": "Entertainment",
+    "description": "Talk shows, live stage performances, and cultural variety.",
+    "sortOrder": 3
+  },
+  {
+    "id": "cat-movies",
+    "slug": "Movies",
+    "name": "Movies",
+    "description": "Public-domain cinema classics and independent film showcases.",
+    "sortOrder": 4
+  },
+  {
+    "id": "cat-documentary",
+    "slug": "Documentary",
+    "name": "Documentary",
+    "description": "Earth observation, science explorations, and historical archives.",
+    "sortOrder": 5
+  },
+  {
+    "id": "cat-kids",
+    "slug": "Kids",
+    "name": "Kids",
+    "description": "Family-friendly storytelling, animation, and creative workshops.",
+    "sortOrder": 6
+  },
+  {
+    "id": "cat-music",
+    "slug": "Music",
+    "name": "Music",
+    "description": "Live acoustic sessions, concert broadcasts, and world rhythms.",
+    "sortOrder": 7
+  },
+  {
+    "id": "cat-educational",
+    "slug": "Educational",
+    "name": "Educational",
+    "description": "Open university lectures, STEM programming, and language arts.",
+    "sortOrder": 8
+  },
+  {
+    "id": "cat-religious",
+    "slug": "Religious",
+    "name": "Religious",
+    "description": "Spiritual heritage broadcasts and community reflections.",
+    "sortOrder": 9
+  },
+  {
+    "id": "cat-international",
+    "slug": "International",
+    "name": "International",
+    "description": "Multilingual global networks and cultural exchanges.",
+    "sortOrder": 10
+  },
+  {
+    "id": "cat-local",
+    "slug": "Local and Regional",
+    "name": "Local and Regional",
+    "description": "Municipal broadcasts, city councils, and regional affairs.",
+    "sortOrder": 11
+  }
+]

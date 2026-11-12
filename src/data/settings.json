@@ -1,0 +1,9 @@
+{
+  "appName": "NOVA TV",
+  "appVersion": "1.0.0",
+  "defaultLanguage": "en",
+  "defaultTheme": "dark",
+  "dataSourceMode": "local-demo",
+  "contactEmail": "broadcast-support@novatv-example.org",
+  "supportUrl": "https://github.com/example/nova-tv"
+}

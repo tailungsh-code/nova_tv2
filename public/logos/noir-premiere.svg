@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <linearGradient id="g-noir-premiere" x1="0" y1="0" x2="120" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#475569"/>
+      <stop offset="100%" stop-color="#00D4FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="28" fill="#0B101D"/>
+  <rect x="4" y="4" width="112" height="112" rx="24" stroke="url(#g-noir-premiere)" stroke-opacity="0.55" stroke-width="2.5"/>
+  <circle cx="96" cy="24" r="6" fill="url(#g-noir-premiere)"/>
+  <text x="60" y="71" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="38" letter-spacing="-1">NP</text>
+</svg>
